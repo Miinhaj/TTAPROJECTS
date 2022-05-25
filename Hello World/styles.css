@@ -1,0 +1,14 @@
+<style>
+body,h1,h2{font-family: "Raleway", sans-serif}
+body, html {height: 100%}
+p {line-height: 2}
+.bgimg, .bgimg2 {
+  min-height: 100%; 
+  background-position: center;
+  background-size: cover;
+}
+.bgimg {background-image: url("https://i.ytimg.com/vi/PMJiHJoE0L8/maxresdefault.jpg")}
+.bgimg2 {background-image: url("https://i.ytimg.com/vi/PMJiHJoE0L8/maxresdefault.jpg")}
+</style>
+</head>
+<body>
